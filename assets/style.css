@@ -11,7 +11,7 @@ body {
 div#menu {
   position: absolute;
   white-space: nowrap;
-  height: 99%;
+  height: 100%;
 }
 
 img.menu_page {
