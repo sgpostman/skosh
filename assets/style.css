@@ -1,0 +1,22 @@
+html {
+  background-color: #f4f2e8;
+  width: 100%;
+}
+
+body {
+  font-size: 0;
+  margin: 0;
+  overflow-y: scroll;
+}
+
+div#menu {
+  position: absolute;
+  white-space: nowrap;
+  width: 100%;
+}
+
+img.menu_page {
+  display: block;
+  position: relative;
+  width: 100%;
+}
